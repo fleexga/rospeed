@@ -14,11 +14,11 @@
             "randomIds": true
         },
         "min": 32000000,
-        "max": 32700000,
+        "max": 34700000,
         "batchsize": 100
     },
     "webhook": {
-        "url": "https://discord.com/api/webhooks/1169722670833750016/j2cjvJ1E3ipQdtIau60IPRc6R9DFrfUCVg48QjJSbi1SZ0fIsebnt-t7eMlMJIDt2PG2",
+        "url": "https://discord.com/api/webhooks/1210753201897213972/uoCDzy49YMEJm6HHPIC6qilWOzAxrgnEk7vHUKq5ni19MPCnE52vuEfR4HbuEuQJIUgp",
         "groupPing": true
     },
     "proxy": {
