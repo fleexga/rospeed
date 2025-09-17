@@ -18,7 +18,7 @@
         "batchsize": 100
     },
     "webhook": {
-        "url": "https://discord.com/api/webhooks/1267546510967570452/-DZ8ML07xHDlxi5Y7ym4gV5Ud0gDwp4K3PWjLcK75p0BjMpxc9AwPiFtwi0jd8NLfQde",
+        "url": "https://discord.com/api/webhooks/1417682610083205281/gJ4pj4m-tadtIq16cFggsa2TPexCXXMQwnyFNpaOq_ETy6LQR3jAHdRtQlBFl5QX6pgo",
         "groupPing": true
     },
     "proxy": {
